@@ -1,0 +1,5252 @@
+[
+  {
+    "cp": "76118",
+    "localidad": "10 de Abril",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "15 de Mayo",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "2 de Abril",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "5 de Febrero",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "8 de Diciembre",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76226",
+    "localidad": "Acequia Blanca",
+    "tipo": "Congregacion",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76026",
+    "localidad": "Acueducto",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Alameda",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Álamos 1a Sección",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Álamos 2a Secc",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Álamos 3a Secc",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Altos Del Marques",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Altos Del Marques",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Amalia Solorzano",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "Ampolletas",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Andalucía",
+    "tipo": "Residencial",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Aragón",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Arboledas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Arboledas Del Parque",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76027",
+    "localidad": "Arboledas Del Rio",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76048",
+    "localidad": "Arquitos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Arte Mexicano",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Aurora",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Azteca 1",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76079",
+    "localidad": "Balaustradas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Balcón Campestre",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76144",
+    "localidad": "Balcones",
+    "tipo": "Residencial",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Balcones Coloniales",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76230",
+    "localidad": "Balcones de Juriquilla",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Balcones Del Acueducto",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Belén",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Belinda",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Bellavista",
+    "tipo": "Residencial",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76089",
+    "localidad": "Benito Juárez",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76120",
+    "localidad": "Benito Juárez",
+    "tipo": "Zona industrial",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76144",
+    "localidad": "Bolaños",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76237",
+    "localidad": "Bolaños",
+    "tipo": "Ejido",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Bosques de Querétaro",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76020",
+    "localidad": "Bosques Del Acueducto",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Bosques Del Cimatorio",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Bosques Del Sol",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76225",
+    "localidad": "Buenavista",
+    "tipo": "Congregacion",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Buenos Aires",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Bugambilias",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76070",
+    "localidad": "Burócrata",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76020",
+    "localidad": "Calesa",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Calesa 2a Sección",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Carolina",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76050",
+    "localidad": "Carretas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76030",
+    "localidad": "Casa Blanca",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76224",
+    "localidad": "Casa Blanca",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76008",
+    "localidad": "Centro Sct Querétaro",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Cerrito Colorado",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Cerrito Colorado 2a Secc",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Cerrito Colorado III",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Cerrito Colorado IV",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Cerrito Colorado V",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Cerrito Colorado VI",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Cerrito Colorado VII",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76221",
+    "localidad": "Cerro de La Cruz",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76221",
+    "localidad": "Charape de La Joya",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Cima",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76030",
+    "localidad": "Cimatario",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Cinco Halcones",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Cipreses",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76059",
+    "localidad": "Circuito Comercial Núcleo las Américas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76017",
+    "localidad": "Circuito Universitario",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76006",
+    "localidad": "Ciudad de Querétaro",
+    "tipo": "Aeropuerto",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Claustros de Corregidora II",
+    "tipo": "Conjunto habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Claustros Del Parque",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76190",
+    "localidad": "Club Campestre de Querétaro",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76170",
+    "localidad": "Colibrí",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Colinas de Menchaca",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Colinas de Santa Cruz 1a Sección",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Colinas de Santa Cruz 2a Sección",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76090",
+    "localidad": "Colinas Del Cimatario",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Colinas Del Parque",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Colinas Del Poniente",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Colinas Del Sur",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Conjunto Bugambilias",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Conjunto Parques",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Conjunto Queretano",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Conjunto Seminario",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76070",
+    "localidad": "Conjunto Terranova",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Conquistadores",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Constelación",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Constituyentes 2a Colonia",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76156",
+    "localidad": "Constituyentes de 1824",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Constituyentes Del Parque",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Constituyentes Fovissste",
+    "tipo": "Unidad habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76220",
+    "localidad": "Continental",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76070",
+    "localidad": "Corregidora",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Cortijo",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Cortijo II",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Cosmos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "Cruz de Fuego",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Cuauhtémoc",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Cuesta Azul",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Cuitlahuac",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76127",
+    "localidad": "Cuitlahuac",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76209",
+    "localidad": "Cumbres de Conin",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76095",
+    "localidad": "Cumbres Del Cimatario",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76230",
+    "localidad": "Cumbres del Lago",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Del Bosque",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Del Rio",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76190",
+    "localidad": "Del Valle",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Departamental los Pirules",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76090",
+    "localidad": "Dependencias",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Desarrollo Familiar",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Desarrollo San Pablo I",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Desarrollo San Pablo II",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Diana Laura",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76020",
+    "localidad": "Diligencias",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "Don Manuel",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Ejido Casa Blanca",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "El Arco",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "El Campanario",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76030",
+    "localidad": "El Carrizal",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "El Cerrito",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76020",
+    "localidad": "El Cortijo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76178",
+    "localidad": "El Ensueño",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76115",
+    "localidad": "El Garambullo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76228",
+    "localidad": "El Herrero",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76187",
+    "localidad": "El Jacal",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "El Jacal",
+    "tipo": "Exhacienda",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76046",
+    "localidad": "El Laurel",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "El Limonar",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76047",
+    "localidad": "El Marques",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "El Mirador",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76229",
+    "localidad": "El Nabo",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "El Oasis",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "El Parque",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76227",
+    "localidad": "El Patol",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76229",
+    "localidad": "El Pie",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76039",
+    "localidad": "El Prado",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76154",
+    "localidad": "El Retablo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76070",
+    "localidad": "El Retiro",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "El Rocio",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "El Rocio II",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76178",
+    "localidad": "El Rosario",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76208",
+    "localidad": "El Rosario",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "El Sabino",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76127",
+    "localidad": "El Salitre",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76179",
+    "localidad": "El Sillar",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "El Sol",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "El Tepetate",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "El Tintero",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76227",
+    "localidad": "El Transito",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "El Vergel",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76236",
+    "localidad": "El Zapote",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "España",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Estación Hércules",
+    "tipo": "Barrio",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76224",
+    "localidad": "Estancia de La Ranchera",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Estío",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76030",
+    "localidad": "Estrella",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76170",
+    "localidad": "Eucaliptos I",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76170",
+    "localidad": "Eucaliptos II",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76170",
+    "localidad": "Eucaliptos III",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Euripides",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Ex Hacienda Carreteras",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "Exhacienda El Tintero",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Exhacienda Menchaca",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Exhacienda Santana",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "Felipe Carrillo Puerto",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Ferrocarrileros",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76197",
+    "localidad": "Fidel Velázquez",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76112",
+    "localidad": "Fovissste",
+    "tipo": "Unidad habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76086",
+    "localidad": "Francisco Villa",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76122",
+    "localidad": "Francisco Villa I",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Francisco Villa II",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Fraternidad de Santiago",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76036",
+    "localidad": "Fray Juan P",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Fuentes",
+    "tipo": "Residencial",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Galindas",
+    "tipo": "Residencial",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Geo Plazas",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Gobernantes",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76026",
+    "localidad": "Goyeneche",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76165",
+    "localidad": "Guadalupe Victoria",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76070",
+    "localidad": "Habitacional Vista",
+    "tipo": "Conjunto habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Halcones",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Hércules",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76164",
+    "localidad": "Héroe de Nacozari",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76057",
+    "localidad": "Hidalgo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Huertas La Joya",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Independencia",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Independencia",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76130",
+    "localidad": "Industrial",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76139",
+    "localidad": "Industrial Carrillo Puerto",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Industrial La Montaña",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Insurgentes",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76029",
+    "localidad": "Jacarandas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Jardines de Hércules",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "Jardines de La Hacienda",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76020",
+    "localidad": "Jardines de Querétaro",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Jardines de Santiago",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Jardines Del Valle",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76127",
+    "localidad": "Jérica",
+    "tipo": "Parque industrial",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76215",
+    "localidad": "Jofre",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76210",
+    "localidad": "Jofrito",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76136",
+    "localidad": "José María Arteaga",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "José María Arteaga",
+    "tipo": "Unidad habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Josefa Ortiz de Dominguez",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Jurica",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Jurica",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Jurica Pinar",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76230",
+    "localidad": "Juriquilla",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Karina",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76074",
+    "localidad": "La Alhambra",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76221",
+    "localidad": "La Barreta",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76230",
+    "localidad": "La cañada",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76217",
+    "localidad": "La Cañada",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76170",
+    "localidad": "La Capilla",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "La Carambada",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76221",
+    "localidad": "La Carbonera",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "La Cordillera",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76020",
+    "localidad": "La Cruz",
+    "tipo": "Barrio",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76026",
+    "localidad": "La Cruz",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "La Era",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76210",
+    "localidad": "La Estacada",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "La Estación",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76214",
+    "localidad": "La Estancia Palo Dulce",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "La Florida",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76210",
+    "localidad": "La Gotera",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "La Granja",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "La Huerta",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "La Joya",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76221",
+    "localidad": "La Joya",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76067",
+    "localidad": "La Laguna",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "La Loma",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "La Loma",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "La Luna",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76212",
+    "localidad": "La Luz",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76219",
+    "localidad": "La Monja",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76025",
+    "localidad": "La Pastora",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "La Peña",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "La Piedad",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76239",
+    "localidad": "La Purisima",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "La Purísima",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76227",
+    "localidad": "La Purísima",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76170",
+    "localidad": "La Reja",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "La Sierrita",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76220",
+    "localidad": "La Solana",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76228",
+    "localidad": "La Tinaja de La Estancia",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76166",
+    "localidad": "La Trinidad",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Las Américas",
+    "tipo": "Ampliacion",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Las Américas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Las Azucenas",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Las Brujas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76010",
+    "localidad": "Las Campanas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Las Flores",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76030",
+    "localidad": "Las Fuentes",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Las Fuentes",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Las Galindas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Las Gemas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Las Glorias",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Las Hadas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76030",
+    "localidad": "Las Misiones",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Las Palmas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Las Peñas",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Las Peñitas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "Las Plazas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76164",
+    "localidad": "Las Rosas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76220",
+    "localidad": "Las Rosas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "Las Teresas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Las Teresitas B",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76186",
+    "localidad": "Las Torres",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Lázaro Cárdenas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Lázaro Cárdenas 3a Secc",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Libertad",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Libertadores de América",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Libertadores de América",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Lindavista",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76228",
+    "localidad": "Llano de La Rochera",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76049",
+    "localidad": "Loma Bonita",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Loma Bonita 2a Sección",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Loma Bonita Norte",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76218",
+    "localidad": "Loma Del Chino",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76060",
+    "localidad": "Loma Dorada",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76070",
+    "localidad": "Loma Linda",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76067",
+    "localidad": "Lomas de Carretas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76080",
+    "localidad": "Lomas de Casablanca",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76190",
+    "localidad": "Lomas de Querétaro",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Lomas de San Pablo",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Lomas de San Pedrito",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Lomas de San Pedrito Peñuelas Secc Portales",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76086",
+    "localidad": "Lomas Del Campestre",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Lomas Del Cimatario",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "Lomas Del Marques",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Lomas Del Valle",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Los Alcanfores",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Los Angeles",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Los Arcos",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76086",
+    "localidad": "Los Candiles",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76165",
+    "localidad": "Los Cedros",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Los Ciruelos",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76165",
+    "localidad": "Los Claustros",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Los Comerciantes",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76156",
+    "localidad": "Los Eucaliptos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Los Faroles",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Los Framboyanes",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Los Fresnos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Los Fundadores",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Los Girasoles",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76139",
+    "localidad": "Los Laureles",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Los Manzanos",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Los Molinos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Los Padilla",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Los Pinos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76176",
+    "localidad": "Los Pinos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Los Robles",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "Los Sauces",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76139",
+    "localidad": "Los Tabachines",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76175",
+    "localidad": "Los Virreyes",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Los Vitrales",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Luis Donaldo Colosio",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "Luis Donaldo Colosio",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "Magisterial",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76229",
+    "localidad": "Mampani",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76185",
+    "localidad": "Mansiones Del Valle",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76139",
+    "localidad": "Manuel Jurado",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76165",
+    "localidad": "Margaritas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76080",
+    "localidad": "María Esther Zuno de Echeverría",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76037",
+    "localidad": "Mariano de las Casas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Marques Querétaro",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76235",
+    "localidad": "Menchaca",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Menchaca I",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Menchaca II",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Menchaca III",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Mercurio",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Miguel Hidalgo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76060",
+    "localidad": "Milenio",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76060",
+    "localidad": "Milenio III",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76136",
+    "localidad": "Militar",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76188",
+    "localidad": "Milpa Alta",
+    "tipo": "Hacienda",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Mirador",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "Mirador Del Marques",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76149",
+    "localidad": "Misión de Concá",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Modelo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76206",
+    "localidad": "Modelo",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76030",
+    "localidad": "Moderna",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76038",
+    "localidad": "Moderna",
+    "tipo": "Unidad habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76156",
+    "localidad": "Moderna",
+    "tipo": "Unidad habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Molinos de La Era",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Monte Blanco",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76220",
+    "localidad": "Montenegro",
+    "tipo": "Hacienda",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Morelos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Morelos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Movimiento Obrero",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Mujeres Independientes",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76010",
+    "localidad": "Niños Héroes",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Nueva Creación",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "Nuevo Carrillo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76130",
+    "localidad": "Obrera",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Observatorio",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76211",
+    "localidad": "Ojo de Agua",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "Orquídeas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76009",
+    "localidad": "Palacio de Gobierno Del Estado de Querétaro",
+    "tipo": "Gran usuario",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76127",
+    "localidad": "Palmares",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76213",
+    "localidad": "Palo Alto",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Panamericano",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76046",
+    "localidad": "Panorámico",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Parque Del Álamo",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76020",
+    "localidad": "Pathe",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76144",
+    "localidad": "Pedregal de Querétaro",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76063",
+    "localidad": "Pedregal de Vista Hermosa",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Peñitas",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Peñuelas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76233",
+    "localidad": "Peñuelas",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76224",
+    "localidad": "Pie de Gallo",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76223",
+    "localidad": "Pintillo",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76223",
+    "localidad": "Pinto",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76099",
+    "localidad": "Plaza Del Sol",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76099",
+    "localidad": "Plaza Del Sol 2a Sección",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76099",
+    "localidad": "Plaza Del Sol 3a Sección",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76169",
+    "localidad": "Plazas Del Parque",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "Plutarco Elias Calles",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Popular Indeco",
+    "tipo": "Unidad habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Portal de Samaniego",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Porvenir",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Praderas Del Sol",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76176",
+    "localidad": "Prados de La Capilla",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76199",
+    "localidad": "Prados Del Campestre",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76070",
+    "localidad": "Prados Del Mirador",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Prados Del Tecnológico",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76216",
+    "localidad": "Presa de Becerra",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76225",
+    "localidad": "Presa de Santa Catarina",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76080",
+    "localidad": "Presidentes",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Primavera",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76156",
+    "localidad": "Primavera",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Privada Arboledas",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76230",
+    "localidad": "Privada Juriquilla",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Privadas Del Cerrito Colorado",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "Progreso",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76230",
+    "localidad": "Providencia Juriquilla",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76144",
+    "localidad": "Puerta del Cielo",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "Puertas Del Sol",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76220",
+    "localidad": "Puerto de Aguirre",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Puestas Del Sol",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Querena",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76079",
+    "localidad": "Quinta Balaustradas",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Quinta Laborcla",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76047",
+    "localidad": "Quintas Del Marques",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "Rancho Nuevo",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76127",
+    "localidad": "Raquet Club",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Real Del Parque",
+    "tipo": "Unidad habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Real España",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Real Jurica",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76086",
+    "localidad": "Reforma Agraria",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76086",
+    "localidad": "Reforma Agraria 2a Secc",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76086",
+    "localidad": "Reforma Agraria 3a Secc",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76086",
+    "localidad": "Reforma Agraria 4a Secc",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76086",
+    "localidad": "Reforma Agraria 5a Secc",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Reforma Agraria Radical",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76074",
+    "localidad": "Residencial Alambra",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Residencial Bosques",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Residencial Frondoso",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76131",
+    "localidad": "Residencial Italia",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Residencial Tecnológico",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Ricardo Flores Magón",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76005",
+    "localidad": "Rincón de San Andres",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76190",
+    "localidad": "Rincón de San Antonio",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Rinconada Del Pacifico",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Rinconada Del Sol",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Rinconada Jacarandas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Rinconada La Capilla",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Rinconada los Pirules",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Rinconada San Joaquín",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "Rinconada Zimapan",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Rosendo Salazar",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Ruben Jaramillo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76030",
+    "localidad": "San Angel",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76144",
+    "localidad": "San Antonio",
+    "tipo": "Unidad habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76135",
+    "localidad": "San Antonio de La Huerta",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76135",
+    "localidad": "San Antonio de La Punta",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "San Antonio Del Maurel",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76139",
+    "localidad": "San Diego",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "San Felipe",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76230",
+    "localidad": "San Francisco",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76058",
+    "localidad": "San Francisquito",
+    "tipo": "Barrio",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76156",
+    "localidad": "San Gregorio",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76223",
+    "localidad": "San Isidro Buenavista",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76228",
+    "localidad": "San Isidro El Alto",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76209",
+    "localidad": "San Isidro Miranda",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76224",
+    "localidad": "San Isidro Viejo",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76020",
+    "localidad": "San Javier",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76139",
+    "localidad": "San José",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76226",
+    "localidad": "San José Buenavista",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76227",
+    "localidad": "San José de La Tinaja",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "San José El Alto",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76238",
+    "localidad": "San José El Alto",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76027",
+    "localidad": "San José Inn",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "San Marcos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76220",
+    "localidad": "San Miguelito",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "San Pablo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "San Pablo I",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "San Pablo II",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "San Pablo III",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "San Pablo IV",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "San Pablo Tecnológico",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "San Pedrito Ecológico",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76232",
+    "localidad": "San Pedrito El Alto",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "San Pedrito los Arcos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "San Pedrito Peñuelas I",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "San Pedrito Peñuelas II",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "San Pedrito Peñuelas III",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "San Pedrito Peñuelas IV",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "San Pedro Mártir",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "San Roque",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76165",
+    "localidad": "San Sebastián",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76157",
+    "localidad": "Santa Catarina",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76223",
+    "localidad": "Santa Catarina",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Santa Fe",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Santa María",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "Santa Mónica 1a Sección",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "Santa Mónica 2a Secc",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76220",
+    "localidad": "Santa Rosa de Jauregui",
+    "tipo": "Pueblo",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76179",
+    "localidad": "Santiago",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76000",
+    "localidad": "Santiago de Querétaro Centro",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Santo Niño",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76234",
+    "localidad": "Santo Niño de Praga",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Satélite",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76115",
+    "localidad": "Satélite Fovissste",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76007",
+    "localidad": "Secretaria de Hacienda y Crédito Publico",
+    "tipo": "Gran usuario",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "Sendero",
+    "tipo": "Zona comercial",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Sergio Villaseñor",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "Solidaridad 90",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Tecnológico",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Teotihuacan",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Terrazas de San Pablo",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Texas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76229",
+    "localidad": "Tlacote El Alto",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76229",
+    "localidad": "Tlacote El Bajo",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Tlanese",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76230",
+    "localidad": "Tolimán",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Unidad Nacional",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Unidad Roma",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Unidad Social Queretana",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Unión",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "Unión Magisterial",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76028",
+    "localidad": "Universidad",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Universo 200",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Valle Alameda",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Venceremos",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Victoria",
+    "tipo": "Conjunto habitacional",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Victoria A Popular",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Villa Fontana",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76206",
+    "localidad": "Villa Jardín",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76178",
+    "localidad": "Villa las Arboledas",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Villas de Guadalupe",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Villas de Santiago",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76226",
+    "localidad": "Villas Del Mesón",
+    "tipo": "Rancho o rancheria",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76063",
+    "localidad": "Villas Del Oriente",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Villas Del Parque",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Villas Del Rincón",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76046",
+    "localidad": "Villas Del Sol",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Villas Del Sur",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Villas Tecnológico",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76078",
+    "localidad": "Villas Valle Alameda",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Vista 2000",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76090",
+    "localidad": "Vista Alegre",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76074",
+    "localidad": "Vista Alegre",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76074",
+    "localidad": "Vista Alegre 2a Secc",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76074",
+    "localidad": "Vista Alegre 3a Secc",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76074",
+    "localidad": "Vista Alegre Maxei",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Vista Azul",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76060",
+    "localidad": "Vista Dorada",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76063",
+    "localidad": "Vista Hermosa",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Vistas Del Cimatorio",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Vistas Del Valle",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76155",
+    "localidad": "Viveros",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Viveros Residencial",
+    "tipo": "Fraccionamiento",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Zapata Vive",
+    "tipo": "Colonia",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "12 de Diciembre",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "25 de Diciembre",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Álamos 2a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Álamos 3a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Alborada",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Altos del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Altos del Marqués 1 y 2 Etapa",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Altos de San Pablo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Ampliación Amalia Solórzano",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Ampliación Patria Nueva",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Ampliación Satélite",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76180",
+    "localidad": "Anáhuac",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76040",
+    "localidad": "Andalucía Sección Cordova",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Anexo a la Ecólogia",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76144",
+    "localidad": "Anexo Ejido Bolaños",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Ángeles",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Antorchista",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Asalias",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Atenas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Azteca",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Balcones de San Pablo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Bleu Casas Platina",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Bosques de Bella Vista",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Bosques de la Hacienda",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Bosques de las Lomas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Bosques del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Bosques del Cimatario 2a. Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Bugambilias Residencial",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Campestre Italiana",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76139",
+    "localidad": "Carrillo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76179",
+    "localidad": "C.E.A.",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Cedros Alcatraces",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Cedros Tilipanes",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Centenario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76000",
+    "localidad": "Centro",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76090",
+    "localidad": "Centro Sur",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76017",
+    "localidad": "Centro Universitario (U.A.Q.)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Che Guevara (Axayacatl)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Chula Vista I",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Chula Vista II",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Ciudad del Sol",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Claustros de la Catedral",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Claustros de la Corregidora 2",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Claustros de la Corregidora I",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Claustros de la Loma",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Claustros de las Misiones",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Claustros del Marques",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Claustros del Sur",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76093",
+    "localidad": "Claustros de Santiago",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76185",
+    "localidad": "Clautros del Campestre",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76190",
+    "localidad": "Club Campestre",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Colinas de Menchaca 2a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Colinas de San Pablo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Comerciantes",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Comevi",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Condominio La Cordillera",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Conjunto Belén",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Conjunto Querétaro",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Constituyentes",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76070",
+    "localidad": "Corregidora (Burocrata)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Cosmos (Satelite)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76063",
+    "localidad": "Cuesta Bonita",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76060",
+    "localidad": "Cumbres del Mirador",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Demetrio Vallejo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "Departamental Parques",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Desarrollo San Ángel",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Desarrollo San Pablo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Diana Laura Rojas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Dolce Terra",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Eduardo Loarca",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Ejido Menchaca (Los Pinos)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Ejido Modelo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "El Arcángel",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "El Arcángel (La Guayina)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "El Bosque",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "El Chamizal",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "El Cortijo II",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "El Destino",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "El Fenix",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "El Higo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "El Jardín",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "El Marqués Queretano",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76144",
+    "localidad": "El Pedregal de Querétaro",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76158",
+    "localidad": "El Porvenir",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "El Progreso",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "El Romerillal",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "El Sol Residencial",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "El Tepeyac",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Enrique Burgos (La Rinconada)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76178",
+    "localidad": "Ensueño",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Epigmenio González (El Oasis)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Eucaliptos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "Ex-Hacienda El Tintero",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Ex-Hacienda Santana",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Felipe Ángeles",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Felipe Ángeles",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Fernando de Tapia",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Ferrocarriles Sección Rinconada Santa Anita",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76197",
+    "localidad": "Fidel Velázquez Sánchez",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Francisco Javier Mina",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Fray Junípero Serra",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Fresnos Condominio 2",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Fresnos Condominio 3",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Fresnos Condominio 4",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Frida Kahlo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Fundadores",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Galindas Residencial",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Géminis",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Generación 2000",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Geo Villas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76165",
+    "localidad": "Guadalupe Victoria (SAHOP)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Hacienda Galindo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76185",
+    "localidad": "Hacienda San Miguel",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Hacienda Santa Rosa",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Huertas del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Ignacio Pérez",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Ignacio Zaragoza",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Jardines de Alborada",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Jardines de Azucenas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Jardines de Jurica",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Jardines del Bosque",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Jardines del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Jardines del Sol",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Jardines de San José",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Jardines de San José 2a. Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Jardines de San José 3a. Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Jardines de Villas de Santiago",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Josefa Ortiz de Domínguez II",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Josefa Ortiz de Domínguez III",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Josefa Ortiz de Domínguez IV",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "José María Bustamante",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "La Aurora",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "La Campana",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "La Castellana",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "La Cima",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "La Condesa",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "La Cuesta",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Ladera de San José el Alto Oriente",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Laderas de San Pedro",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "La Esmeralda",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "La Esperanza",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "La Estación 2a. Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "La Estación F.F.C.C.",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "La Floresta",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76139",
+    "localidad": "La Higuera",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "La Ladera",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "La Ladera (Menchaca III)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "La Peñita",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "La Popular",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "La Rueca",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Las Américas San Pablo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76178",
+    "localidad": "La Sandia",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Las Camelinas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76139",
+    "localidad": "Las Josefinas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Las Palomas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "La Tinaja",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Latinoamericana",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "La Toscana",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "La Unión",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "La Vista Residencial",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Lázaro Cárdenas III",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Leyes de Reforma",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Libertadores",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Lic. Alfredo Estrada Romero",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Linderos del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Loma Bonita 2a. Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Loma IX",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Loma Real",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76080",
+    "localidad": "Lomas de Casa Blanca",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "Lomas del Campanario II",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "Lomas del Campanario III",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "Lomas del Carmen",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Lomas de Lindavista",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Lomas del Pedregal 2a. Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76127",
+    "localidad": "Lomas del Salitre",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Lomas de Mechaca",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Lomas de Pasteur",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Lomas de San Ángel",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Lomas de San José",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Lomas de San Pedrito (Sección Portales)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Lomas de Satélite",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76156",
+    "localidad": "Los Alcanfores Sección Norte",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Los Alcanfores Sección Sur",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76178",
+    "localidad": "Los Ángeles I",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Los Arroyitos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "Los Castaños",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Los Encinos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Los Huertos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76190",
+    "localidad": "Los Pilares",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Los Sabinos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Manantiales del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76005",
+    "localidad": "Mariano Escobedo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Mega Plaza",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76060",
+    "localidad": "Milenio 3a. Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "Miradores",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Misión Bucareli",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Misión Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Misión de Carrillo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Misión de Carrillo II",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Misión Fundadores",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Monarca",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Monte Blanco I",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Monte Blanco II",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Monte Blanco III",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Montecarlo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Murano",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76164",
+    "localidad": "Nacozari",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Nueva Esperanza",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Nueva Esperanza",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Nuevo Horizonte",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Nuevo Menchaca",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Nuevo Morelos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Nuevo San Pedrito",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Oasis",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76127",
+    "localidad": "Palmas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Palmas de San José",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76074",
+    "localidad": "Palomar del Duque",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76080",
+    "localidad": "Papanoa",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Paraíso",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Parque Industrial la Montaña",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "Parque Querétaro 2000",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76115",
+    "localidad": "Parque Santiago",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Paseos de la Cuesta",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Paseos del Pedregal",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Paseos de San Miguel",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Patria Nueva",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Pedregal de Buenos Aires",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Pedregal del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Plan Santa María",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76169",
+    "localidad": "Plaza Boulevares",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76059",
+    "localidad": "Plaza de las Américas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76169",
+    "localidad": "Plaza del Parque",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76099",
+    "localidad": "Plazas del Sol 1a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76099",
+    "localidad": "Plazas del Sol 2a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76099",
+    "localidad": "Plazas del Sol 3a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Prados del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Prados de Loma Bonita",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "Prados del Rincón",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Prados del Rincón 2a. Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Prados de Querétaro",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Privada Bugambilias",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Privada de los Portones",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76169",
+    "localidad": "Privada la Laborcilla",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Privalia Ambienta",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Provincia Santa Elena",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Proyección 2000",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Puerta de Belén",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Puerta del Sol",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76114",
+    "localidad": "Puerta del Sol II",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "Puesta del Sol",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Punta San Carlos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76179",
+    "localidad": "Quinta Alicia",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76168",
+    "localidad": "Quinta La Laborcilla",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "Rancho Bellavista",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Rancho Menchaca",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Rancho Menchaca (Ex-Hacienda Menchaca)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Rancho Quemado",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76144",
+    "localidad": "Rancho San Antonio",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Rancho San Pedro",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Raquel Trejo Ortiz",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Real de España",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Real del Marques Residencial",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "Real de San Pablo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76086",
+    "localidad": "Reforma Agraria 1a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Renacimiento",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "Residencial el Refugio",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Residencial Gema",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Residencial las Fuentes",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Residencial Parque del Álamo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Residencial Parque La Gloria",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Revolución",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Rinconada de las Joyas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Rinconada del Cerrito",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Rinconada de los Alamos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76036",
+    "localidad": "Rinconada Fray Juan",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Rinconada Jurica",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76005",
+    "localidad": "Rinconada Morelos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Rinconada San José",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Rinconada Santa Anita",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Rincón del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Rincones del Parque",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Rivera y Tamayo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Rocio Sanz",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76160",
+    "localidad": "Romy",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "San Andrés",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76046",
+    "localidad": "San Joaquín",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76159",
+    "localidad": "San Joaquín",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "San José 2a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "San José de la Montaña",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "San José de los Perales",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76117",
+    "localidad": "San Marcos I",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "San Miguel",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "San Pablo I FOVISSSTE",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "San Pablo II FOVISSSTE",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "San Pablo III (INFONAVIT)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76121",
+    "localidad": "San Pablo IV (INFONAVIT)",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76140",
+    "localidad": "San Pedrito Peñuelas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Santa Isabel",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Santa María Magdalena",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76134",
+    "localidad": "Santa Mónica",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Santa Rosa",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Satélite Sección Andadores",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76110",
+    "localidad": "Satélite Sección Condominios",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Sauces",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Sierra Colorada",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76150",
+    "localidad": "Tecnológico 2000",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76069",
+    "localidad": "Tejas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Tenochtitlán",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Tenochtitlán II",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Tonatiuh",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Tonatiuh 2a. Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Tonatiuh 3a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Tonatiuh 4a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Universo 2000",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "Valle del Mezquital",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76125",
+    "localidad": "Valle de San Pablo",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Valle de San Pedrito Peñuelas",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Valle de San Pedro",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76113",
+    "localidad": "Valle de San Pedro 2a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Valle de Santiago",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Valle Garden",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76137",
+    "localidad": "Valle Real de San Ángel",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Valles de San José",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76005",
+    "localidad": "Vicente Guerrero",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Victoria Popular",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76116",
+    "localidad": "Víctor Iturbe",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76024",
+    "localidad": "Villa Los Arcos",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76177",
+    "localidad": "Villa San Antonio",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76087",
+    "localidad": "Villas del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76030",
+    "localidad": "Villas del Refugio",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Villas de San José",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76118",
+    "localidad": "Villas de San Miguel",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76138",
+    "localidad": "Villas de Santa Mónica",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76148",
+    "localidad": "Villas Fontana",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76146",
+    "localidad": "Villas Palmira",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76070",
+    "localidad": "Vista",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76074",
+    "localidad": "Vista Alegre 3a Sección",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76147",
+    "localidad": "Vistana",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76085",
+    "localidad": "Vistas del Cimatario",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76100",
+    "localidad": "Vive",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76155",
+    "localidad": "Viveros de Querétaro",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76115",
+    "localidad": "Volcanes",
+    "tipo": "",
+    "municipio": "Querétaro"
+  },
+  {
+    "cp": "76136",
+    "localidad": "Zona Militar",
+    "tipo": "",
+    "municipio": "Querétaro"
+  }
+]
